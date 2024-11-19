@@ -51,7 +51,7 @@ This app was collaboratively developed by:
 
 ## License   
 This project is licensed under the Proprietary License.  
-For details, see the full [LICENSE](https://github.com/SabrinaMillerSM/DataAnalystAppMatlab/blob/main/LICENSE) file.
+For details, see the full [LICENSE](https://github.com/SabrinaMillerSM/DataAnalystAppMatlab/blob/main/License) file.
 
 ---
 
